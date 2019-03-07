@@ -28,7 +28,6 @@ For your Azure RemoteApp hybrid collection or for a cloud collection that you wa
 
 If you want to connect your Azure AD tenant and your on-premises Active Directory environments, use AD Connect. It will take you only [4 clicks](https://blogs.technet.microsoft.com/enterprisemobility/2014/08/04/connecting-ad-and-azure-ad-only-4-clicks-with-azure-ad-connect/) to connect the two directories.
 
-Note - Directory synchronization is required for hybrid collections.
 
 ### Make sure your "@domain.com" match
 Before you get started, make sure that the UPN for your on-premises forest matches the suffix of your Azure AD domain. 
