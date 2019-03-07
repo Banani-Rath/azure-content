@@ -1,3 +1,13 @@
+---
+topic: sample
+urlFragment: iotcore-defaultapp
+languages: 
+  - csharp
+products:
+  - windows
+description: The current IoT Core Default App, a fully featured sample app.
+---
+
 # Azure Technical Documentation Contributor Guide
 
 You've found the GitHub repository that houses the source for the technical documentation that is published to the Azure Documentation Center at [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation).
