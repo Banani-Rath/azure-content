@@ -1,5 +1,6 @@
 ---
 topic: sample
+urlFragment: iotcore-defaultapp
 languages: 
   - csharp
 products:
